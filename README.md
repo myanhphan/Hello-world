@@ -6,5 +6,4 @@ Practicing a branch
 - BBA in Business Analytics and Information Systems
 - International Business Certificate
 # Group project
-_India renting affections_: using regression, residual charts to figure out which factors will effect the renting price in India at 97% confidence
-## 
+_India renting: using regression, residual charts to figure out which factors will effect the renting price in India at 97% confidence
